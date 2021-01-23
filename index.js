@@ -42,7 +42,7 @@ const { donasi } = require('./src/donasi')
 const { help } = require('./src/help')
 const vcard = 'BEGIN:VCARD\n' // OM JANGAN DI UBAH OM
             + 'VERSION:3.0\n' // KU BILANGAN JANGAN JANGAN
-            + 'FN:RamlanGans\n' // INI WEEM RAMLAN GANS
+            + 'FN:EllaSianaga\n' // INI WEEM RAMLAN GANS
             + 'ORG:Owner BOT;\n' // YANG ATAS JAN DI UBAH TOD
             + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // LAWAK TOD
             + 'END:VCARD'
